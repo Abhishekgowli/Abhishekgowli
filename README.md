@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishekgowli](https://github.com/Abhishekgowli)
 
-- 💬 Ask me about **Django, Django_restframework**
+- 💬 Ask me about **Django, Django_restframework,Python,Sql**
 
 - 📫 How to reach me **gowleabhi@gmail.com**
 
